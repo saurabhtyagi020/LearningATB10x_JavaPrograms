@@ -6,7 +6,6 @@ public class Lab005_Substraction {
         int a=40;
         int b=15;
         int c=a-b;
-
         System.out.println("Substracton= "+c);
     }
 }
