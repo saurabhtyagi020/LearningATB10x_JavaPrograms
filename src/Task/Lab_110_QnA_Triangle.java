@@ -2,7 +2,7 @@ package Task;
 
 import java.util.Scanner;
 
-public class Lab_110_QnA {
+public class Lab_110_QnA_Triangle {
     //Check if a Triangle is Valid Based on Three Sides;.
 
     public static void main(String[] args) {
