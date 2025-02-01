@@ -7,19 +7,17 @@ public class Lab_116_QnA_Travel {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your age");
         int age = sc.nextInt();
-        System.out.println("Visa status");
+        System.out.println("Enter Visa status");
        // boolean visaStatus = sc.nextBoolean();
         String visaStatus1 = sc.next();
 
-        if(age>=18&& age>0)
+        if(age>=18)
         {
-           // if(visaStatus==true)
             if(visaStatus1.equalsIgnoreCase("valid"))
             {
                 System.out.println("You can travel");
             }
-         //   else if(visaStatus==false)
-            else if(visaStatus1.equalsIgnoreCase("invalid"))
+            else
             {
                 System.out.println("Not eligible to travel");
             }
