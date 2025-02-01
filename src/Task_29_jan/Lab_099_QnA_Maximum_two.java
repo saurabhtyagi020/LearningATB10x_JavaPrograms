@@ -1,8 +1,8 @@
-package Task;
+package Task_29_jan;
 
 import java.util.Scanner;
 
-public class Lab_099_QnA {
+public class Lab_099_QnA_Maximum_two {
     // Find the Maximum of Two Numbers.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

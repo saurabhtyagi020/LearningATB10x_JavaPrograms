@@ -1,8 +1,8 @@
-package Task;
+package Task_30_jan;
 
 import java.util.Scanner;
 
-public class Lab_104_QnA {
+public class Lab_104_QnA_Small_three {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the three number to check smallest one");

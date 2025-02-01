@@ -1,8 +1,8 @@
-package Task;
+package Task_29_jan;
 
 import java.util.Scanner;
 
-public class Lab_100_QnA {
+public class Lab_100_QnA_vowel_cons {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the any character");

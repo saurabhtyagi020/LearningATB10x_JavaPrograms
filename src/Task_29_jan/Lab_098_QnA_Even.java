@@ -1,8 +1,8 @@
-package Task;
+package Task_29_jan;
 
 import java.util.Scanner;
 
-public class Lab_098_QnA {
+public class Lab_098_QnA_Even {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the any positive number");

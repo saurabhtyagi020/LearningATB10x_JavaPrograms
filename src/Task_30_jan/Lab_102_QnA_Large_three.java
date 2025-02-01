@@ -1,6 +1,6 @@
-package Task;
+package Task_30_jan;
 
-public class Lab_102_QnA {
+public class Lab_102_QnA_Large_three {
     public static void main(String[] args) {
 
        // Find the Largest of Three Numbers.

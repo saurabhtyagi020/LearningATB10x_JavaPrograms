@@ -1,9 +1,9 @@
-package Task;
+package Task_29_jan;
 
 
 import java.util.Scanner;
 
-public class Lab_097_QnA {
+public class Lab_097_QnA_positive_negative {
     public static void main(String[] args) {
             //Check if a Number is Positive or Negative.
         Scanner sc = new Scanner(System.in);

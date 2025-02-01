@@ -1,8 +1,8 @@
-package Task;
+package Task_30_jan;
 
 import java.util.Scanner;
 
-public class Lab_107_QnA {
+public class Lab_107_QnA_AlphabetCheck {
     public static void main(String[] args) {
         //Check if a Character is an Alphabet.
 

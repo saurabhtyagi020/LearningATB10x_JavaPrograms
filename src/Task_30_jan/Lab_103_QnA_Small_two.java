@@ -1,8 +1,8 @@
-package Task;
+package Task_30_jan;
 
 import java.util.Scanner;
 
-public class Lab_103_QnA {
+public class Lab_103_QnA_Small_two {
     public static void main(String[] args) {
         //Find the Smallest of Two Numbers.
         Scanner sc = new Scanner(System.in);

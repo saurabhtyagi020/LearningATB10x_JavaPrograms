@@ -1,6 +1,6 @@
-package Task;
+package Task_29_jan;
 
-public class Lab_101_QnA {
+public class Lab_101_QnA_eligibleVote {
     public static void main(String[] args) {
         int age =20;
         if(age>18)
