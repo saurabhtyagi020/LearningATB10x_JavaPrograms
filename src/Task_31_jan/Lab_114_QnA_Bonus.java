@@ -8,7 +8,7 @@ public class Lab_114_QnA_Bonus {
         System.out.println("Please enter exp years ");
         int year = sc.nextInt();
         System.out.println("Please enter you salary");
-        double salary = sc.nextFloat();
+        double salary = sc.nextDouble();
         double bonusfor1to3 =(salary*5)/100;
         double bonusfor4to6 =(salary*10)/100;
         double bonusforabove6 =(salary*15)/100;
