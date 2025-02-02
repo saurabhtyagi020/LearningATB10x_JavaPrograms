@@ -2,7 +2,7 @@ package Task_01_feb;
 
 import java.util.Scanner;
 
-public class Lab_126_QnA {
+public class Lab_126_QnA_Age {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your age");
