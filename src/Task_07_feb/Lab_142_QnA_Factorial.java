@@ -1,6 +1,6 @@
 package Task_07_feb;
 
-public class Lab_142_QnA {
+public class Lab_142_QnA_Factorial {
     public static void main(String[] args) {
         //Calculate the factorial of a number using a for loop:
         int num = 5;

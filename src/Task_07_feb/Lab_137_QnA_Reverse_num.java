@@ -1,6 +1,6 @@
 package Task_07_feb;
 
-public class Lab_137_QnA {
+public class Lab_137_QnA_Reverse_num {
     public static void main(String[] args) {
         //Print Numbers from 10 to 1 (Reverse Order)
 

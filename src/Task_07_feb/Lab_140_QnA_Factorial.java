@@ -2,7 +2,7 @@ package Task_07_feb;
 
 import java.util.Scanner;
 
-public class Lab_140_QnA {
+public class Lab_140_QnA_Factorial {
     public static void main(String[] args) {
         // Factorial of a Number
         Scanner sc = new Scanner(System.in);

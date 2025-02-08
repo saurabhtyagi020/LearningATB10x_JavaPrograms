@@ -2,7 +2,7 @@ package Task_07_feb;
 
 import java.util.Scanner;
 
-public class Lab_141_QnA {
+public class Lab_141_QnA_Prime_number {
     public static void main(String[] args) {
         //Check if a Number is Prime
         Scanner sc = new Scanner(System.in);

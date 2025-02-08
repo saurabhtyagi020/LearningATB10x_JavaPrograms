@@ -2,7 +2,7 @@ package Task_07_feb;
 
 import java.util.Scanner;
 
-public class Lab_139_QnA {
+public class Lab_139_QnA_Table {
     public static void main(String[] args) {
         //Multiplication Table of a Given Number (take the input from user).
         Scanner sc = new Scanner(System.in);
