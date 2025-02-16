@@ -3,7 +3,7 @@ package Ex_18_Opps.SuperKeyword;
 public class Lab_173_SuperMethod {
     public static void main(String[] args) {
         dog1 d1 = new dog1();
-        d1.eat();
+        d1.bark();
 
         }
     }
@@ -23,9 +23,9 @@ class dog1 extends Animal1
     {
         System.out.println("Dog1 walk");
     }
-    void eat()
+    void bark()
     {
-        System.out.println("Eat dog");
+        System.out.println("Bark dog");
         super.bark();// parent class
     }
 
