@@ -7,7 +7,7 @@ public class Lab_165_This {
         System.out.println(m1.model);
         System.out.println(m1.year);
 
-        System.out.println("--------");
+        System.out.println("-----xxx---");
         m1.details();
         System.out.println("--------");
         String modelmm=m1.mobilemodel();
