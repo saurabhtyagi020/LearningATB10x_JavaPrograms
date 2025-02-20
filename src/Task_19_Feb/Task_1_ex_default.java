@@ -10,6 +10,6 @@ class ABC
 {
     ABC()
     {
-        System.out.println("I am the default constructor");
+        System.out.println("I am the default constructor!");
     }
 }
