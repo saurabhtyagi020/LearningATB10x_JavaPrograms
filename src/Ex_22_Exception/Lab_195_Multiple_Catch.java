@@ -8,8 +8,7 @@ public class Lab_195_Multiple_Catch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value");
-        String str = sc.next();
-        Integer a = Integer.parseInt(str);
+        Integer a= sc.nextInt();
         Integer b =100;
         Integer c = 0 ;
         try {
