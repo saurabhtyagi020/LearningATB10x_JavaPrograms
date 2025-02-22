@@ -25,5 +25,21 @@ public class Bank {
         this.amount = amount;
     }
 
+    public Integer add(Bank bankName) {
+        if (bankName.currency.equalsIgnoreCase("INR")) {
+            return bankName.amount + this.amount;
+        }
+        else
+        {
+            try {
+                throw new Exception("currency not match!");
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
+            }
+            return 0;
+        }
+    }
+
+
 
 }
