@@ -10,6 +10,7 @@ public class Lab_204_LL {
         student.add("Vinit");
         student.add("Sumit");
         student.add("Vikas");
+        student.add("Vikas");
         student.add("Rajan");
 
         System.out.println(student);
