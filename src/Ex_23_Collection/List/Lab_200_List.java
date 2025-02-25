@@ -1,6 +1,5 @@
-package Ex_23_Collection;
+package Ex_23_Collection.List;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Lab_200_List {

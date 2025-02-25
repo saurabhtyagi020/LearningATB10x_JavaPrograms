@@ -1,4 +1,4 @@
-package Ex_23_Collection;
+package Ex_23_Collection.List;
 
 import java.util.Iterator;
 import java.util.LinkedList;
