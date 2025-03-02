@@ -14,6 +14,7 @@ public class Lab_210 {
        // ht.put(null,"name4");
      //   ht.put(4,null);
         ht.put(3,"name2");
+        ht.put(4,"name2");
 
         System.out.println(ht);
 
